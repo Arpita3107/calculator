@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #011627;
+    color: #fdfffc;
+    text-align: center;
+    background-image: url(https://external-preview.redd.it/_A7W69KE6NI31QWmxDXHSL6GT_UZ3MBHsHcpK8Uq-2Q.jpg?width=960&crop=smart&auto=webp&s=254f3b9931b207dc006504606e139bb8ad9ad5a7);
+
+}
+h1{
+    font-size: 45px;
+
+}
+button{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: white;
+    color: black;
+}
+#display {
+    font-size: 30px; /* Increase the font size to 30 pixels */
+  }
+  
+  
+.btn:hover{
+    background-color: yellow;
+}
